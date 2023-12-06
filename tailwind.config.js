@@ -8,6 +8,9 @@ export default {
     extend: {
       fontFamily:{
         "kumbh":'Kumbh Sans , sans-serif'
+      },
+      colors:{
+        
       }
     },
   },
